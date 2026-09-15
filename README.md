@@ -1,5 +1,23 @@
 # n8nworkflows.xyz
 
+## 🚀 START / CONTINUE WORK — UNIVERSAL REPOSITORY WORK SYSTEM
+
+> **`Repository: nivyindia/n8nworkflows.xyz | Repository URL: https://github.com/nivyindia/n8nworkflows.xyz | Branch: main | Branch URL: https://github.com/nivyindia/n8nworkflows.xyz/tree/main — Read docs/REPO-CONTROL/00-MASTER-INSTRUCTIONS.md and start/continue the work.`**
+
+### ⚡ QUICK RESUME — ONE-GLANCE STATUS
+| Item | Current state |
+|---|---|
+| **Repository** | `nivyindia/n8nworkflows.xyz` |
+| **Branch** | `main` |
+| **Start point** | `docs/REPO-CONTROL/00-MASTER-INSTRUCTIONS.md` |
+| **Current stage** | Workflow/control reconciliation |
+| **Status** | `IN PROGRESS` |
+| **Completed** | n8n workflow/resource repository and repository-level work-control/status guidance established |
+| **Remaining** | Reconcile workflow inventory and continue highest-priority integration/support tasks |
+| **Current blocker** | None verified here |
+| **Exact %** | **Not calculated** — use verified implementation evidence |
+| **Next action** | Read master → source index → inspect workflow/task state → execute/verify |
+
 ## 📘 Repository Context
 
 - **Purpose:** Collection/resource repository for n8n workflows and automation patterns used as references or integration candidates for the Nivy AIOS ecosystem.
@@ -22,13 +40,5 @@
 
 ## Resume Rule
 `CHECK → READ → INSPECT → FIND TASK → CLAIM → IN_PROGRESS → WORK → VERIFY → RECORD → COMMIT → RELEASE → RECHECK → CONTINUE`
-
-## 📌 Nivy AIOS Work Status — Quick Resume
-
-- **Last updated:** 2026-09-16
-- **Role:** n8n workflow/template resource repository supporting the broader AIOS work.
-- **Completed:** Repository-level autonomous execution guidance and persistent cross-session status tracking established.
-- **Exact completion %:** Not inferred from workflow/template count.
-- **Where to start:** `WORK-STATUS.md` → then `nivyindia/Nivy-Next-AIOS` canonical plan/tracker.
 
 **Detailed status:** [WORK-STATUS.md](WORK-STATUS.md)
