@@ -1,5 +1,15 @@
 # n8nworkflows.xyz
 
+## 📘 Repository Context
+
+- **Purpose:** Collection/resource repository for n8n workflows and automation patterns used as references or integration candidates for the Nivy AIOS ecosystem.
+- **Main objective:** Discover, preserve, organize and reuse workflow patterns; integration into the AIOS is counted only after implementation and verification in the canonical runtime repository.
+- **Main objects:** n8n workflows, templates, automation patterns, integrations, reusable workflow logic and related references.
+- **Data/source:** Imported or collected workflow/reference material; verify provenance and compatibility before production use.
+- **Implementation plan:** Follow the canonical Nivy Next AIOS implementation plan for anything that becomes an actual AIOS capability.
+- **Progress rule:** Template/workflow count is not implementation completion. Use verified repository evidence and the canonical tracker.
+- **How to use this README:** Understand repository purpose first → check `WORK-STATUS.md` → inspect relevant workflow/reference → trace any implementation to the canonical AIOS plan.
+
 ## 📌 Work & Implementation Control
 
 - **Common resume file:** [WORK-STATUS.md](WORK-STATUS.md)
